@@ -1,0 +1,31 @@
+AWS responsibilty
+Hardware, Software and Physical, anagement console
+
+
+Our respsibility
+OS, APPS, Network. VPC
+
+Symatry or A symatry - KMS
+
+2 sec cred - access key\username and pw
+2 ways to encrypt - in rest/in transit
+
+
+
+pricing
+compute - storage - data transfer
+pay for what you use
+pay less the more you use
+no upfront payments
+lowered prices 75 times since 2006
+no charge: 
+VPC
+Elastic Beanstalk
+Auto scaling
+Cloudformation
+IAM
+
+TCO - Total cost of ownership
+On Prem is predicted
+AWS calculator - model what you need before using.
+Groups in calculator used to check specific services easily

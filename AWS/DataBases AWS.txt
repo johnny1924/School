@@ -1,0 +1,18 @@
+Partition Key - rows
+Sort Key - lines
+
+DynamoDB - Only on SSD
+Auto Replicate
+Choice of REGIONS
+
+Accessible VIA AWS CLI And API's
+
+DATA Warehouse - REDSHIFT - SaaS
+
+RDS - MARIADB
+MSSQL
+ORACLE
+
+Amazon Aurora - Compatible With MySQL and PostgreSQL
+
+  

@@ -1,0 +1,2 @@
+Stateless - works on hirarchy
+Statful - checks all rules
